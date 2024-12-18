@@ -283,9 +283,9 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-base-special-sqrtpif/main/LICENSE
 
-<!-- <related-links> -->
-
 [@stdlib/math/base/special/sqrt]: https://github.com/stdlib-js/math-base-special-sqrt
+
+<!-- <related-links> -->
 
 <!-- </related-links> -->
 
