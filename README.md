@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import sqrtpif from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sqrtpif@deno/mod.js';
+import sqrtpif from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sqrtpif@v0.1.0-deno/mod.js';
 ```
 
 #### sqrtpif( x )
@@ -83,7 +83,7 @@ var v = sqrtpif( -4.0 );
 ```javascript
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import sqrtpif from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sqrtpif@deno/mod.js';
+import sqrtpif from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sqrtpif@v0.1.0-deno/mod.js';
 
 var opts = {
     'dtype': 'float32'
