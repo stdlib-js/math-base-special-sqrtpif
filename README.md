@@ -35,6 +35,22 @@ limitations under the License.
 
 > Compute the principal [square root][@stdlib/math/base/special/sqrt] of the product of π and a positive single-precision floating-point number.
 
+<section class="intro">
+
+The function computes the principal [square root][square-root] of the product of π and a positive number
+
+<!-- <equation class="equation" label="eq:sqrtpi_function" align="center" raw="y = \sqrt{\pi x}" alt="Square root of pi times x"> -->
+
+```math
+y = \sqrt{\pi x}
+```
+
+<!-- </equation> -->
+
+</section>
+
+<!-- /.intro -->
+
 <section class="installation">
 
 ## Installation
@@ -283,6 +299,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/math-base-special-sqrtpif/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-base-special-sqrtpif/main/LICENSE
+
+[square-root]: https://en.wikipedia.org/wiki/Square_root
 
 [@stdlib/math/base/special/sqrt]: https://github.com/stdlib-js/math-base-special-sqrt
 
